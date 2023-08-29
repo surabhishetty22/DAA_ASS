@@ -48,4 +48,4 @@ if __name__ == "__main__":
 
 #Enter the text: The quick brown fox jumps over the lazy dog.
 #Enter the pattern to search: jumps
-#Pattern found at position 21
+#Pattern found at position 20
