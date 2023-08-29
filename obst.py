@@ -28,6 +28,6 @@ if __name__ == "__main__":
 
 
 # output:
-# Enter keys separated by spaces: A B C
-# Enter corresponding frequencies: 2 4 6
-# Optimal binary search tree cost: 34
+# Enter keys separated by spaces: A B C D
+# Enter corresponding frequencies: 0.1 0.2 0.4 0.3
+# Optimal binary search tree cost: 1.3
