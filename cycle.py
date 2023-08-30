@@ -46,11 +46,3 @@ if __name__ == "__main__":
 
     hamiltonian_cycle(graph)
 
-
-# ouput:
-#Enter the number of vertices: 4
-#Enter adjacency matrix row for vertex 1 (0s and 1s separated by spaces): 0 1 1 1
-#Enter adjacency matrix row for vertex 2 (0s and 1s separated by spaces): 1 0 1 0
-#Enter adjacency matrix row for vertex 3 (0s and 1s separated by spaces): 1 1 0 1
-#Enter adjacency matrix row for vertex 4 (0s and 1s separated by spaces): 1 0 1 0
-#No Hamiltonian cycle exists.

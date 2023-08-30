@@ -33,8 +33,4 @@ if __name__ == "__main__":
     print("Sorted array:", arr)
 
 
-# output:
-# Enter the number of elements: 8
-# Enter the elements separated by spaces: 29 10 14 37 13 9 25 18
-# Sorted array: [9, 10, 13, 14, 18, 25, 29, 37]
 

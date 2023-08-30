@@ -43,9 +43,3 @@ if __name__ == "__main__":
         print("Pattern not found in the text")
 
 
-# output:
-
-
-#Enter the text: The quick brown fox jumps over the lazy dog.
-#Enter the pattern to search: jumps
-#Pattern found at position 20

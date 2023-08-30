@@ -43,22 +43,3 @@ for i in range(1, num_stages - 1):
 print(path[0])
 
 
-# ouput:
-#Enter the number of stages: 3
-#Enter vertices in stage 1 separated by spaces: 1
-#Enter vertices in stage 2 separated by spaces: 2 3
-#Enter vertices in stage 3 separated by spaces: 4
-
-#Enter the number of edges from vertex 1 in stage 1: 1
-#Enter destination vertex and cost separated by spaces: 2 2
-
-#Enter the number of edges from vertex 2 in stage 2: 2
-#Enter destination vertex and cost separated by spaces: 3 3
-#Enter destination vertex and cost separated by spaces: 4 1
-
-#Enter the number of edges from vertex 3 in stage 2: 1
-#Enter destination vertex and cost separated by spaces: 4 2
-
-#Enter the number of edges from vertex 4 in stage 3: 0
-#The minimum cost of the multistage graph is: 5
-#The optimal path is: 1 -> 2 -> 3 -> 4
